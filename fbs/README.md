@@ -84,7 +84,7 @@ setup sims_skybrightness_pre -t $USER
 scons
 ```
 
-If you already have the skybrightness data downloaded you can link it to this repo.
+If you already have the skybrightness data downloaded you can link it to this repo. For example:
 
 ```
 ln -s /lsst_repos/sims_skybrightness_pre/data/healpix/ /home/username/fbs_repos/sims_skybrightness_pre/data
