@@ -14,6 +14,16 @@ git clone https://github.com/lsst/sims_featureScheduler.git
 git clone https://github.com/tribeiro/sims_speedObservatory.git
 ~~~
 
+# ts_observatory_model (feature/fail_state_in_get_slew_dela)
+
+```
+cd ts_observatory_model
+git checkout feature/fail_state_in_get_slew_delay
+eups ts_observatory_model sims_ocs -r . -t $USER
+setup ts_observatory_model -t $USER
+scons
+```
+
 # sims_ocs (feature/clean_fieldid_dep)
 
 ```
