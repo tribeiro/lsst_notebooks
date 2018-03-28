@@ -40,7 +40,7 @@ scons
 cd ts_scheduler 
 git checkout feature/cosmetics_main
 eups delcare ts_scheduler  -r . -t $USER
-setup sims_ocs -t $USER
+setup ts_scheduler -t $USER
 scons
 ```
 
