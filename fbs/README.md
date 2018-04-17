@@ -12,6 +12,9 @@ git clone https://github.com/lsst/sims_skybrightness_pre.git
 git clone https://github.com/lsst-sims/sims_ocs.git
 git clone https://github.com/lsst/sims_featureScheduler.git
 git clone https://github.com/tribeiro/sims_speedObservatory.git
+git clone https://github.com/lsst/sims_seeingModel.git
+git clone https://github.com/lsst/sims_cloudModel.git
+git clone https://github.com/lsst/sims_downtimeModel.git
 ~~~
 
 # ts_observatory_model (feature/fail_state_in_get_slew_dela)
@@ -19,7 +22,7 @@ git clone https://github.com/tribeiro/sims_speedObservatory.git
 ```
 cd ts_observatory_model
 git checkout feature/fail_state_in_get_slew_delay
-eups ts_observatory_model sims_ocs -r . -t $USER
+eups declare ts_observatory_model -r . -t $USER
 setup ts_observatory_model -t $USER
 scons
 ```
@@ -29,8 +32,33 @@ scons
 ```
 cd sims_ocs
 git checkout feature/clean_fieldid_dep
-eups delcare sims_ocs -r . -t $USER
+eups declare sims_ocs -r . -t $USER
 setup sims_ocs -t $USER
+scons
+```
+# sims_seeingModel (master)
+
+```
+cd sims_seeingModel
+eups declare sims_seeingModel -r . -t $USER
+setup sims_seeingModel -t $USER
+scons
+```
+# sims_cloudModel (master)
+
+```
+cd sims_cloudModel
+eups declare sims_cloudModel -r . -t $USER
+setup sims_cloudModel -t $USER
+scons
+```
+
+# sims_downtimeModel (master)
+
+```
+cd sims_downtimeModel
+eups declare sims_downtimeModel -r . -t $USER
+setup sims_downtimeModel -t $USER
 scons
 ```
 
@@ -39,7 +67,7 @@ scons
 ```
 cd ts_scheduler 
 git checkout feature/cosmetics_main
-eups delcare ts_scheduler  -r . -t $USER
+eups declare ts_scheduler  -r . -t $USER
 setup ts_scheduler -t $USER
 scons
 ```
@@ -49,7 +77,7 @@ scons
 ```
 cd sims_featureScheduler 
 git checkout FSDriver/latest
-eups delcare sims_featureScheduler  -r . -t $USER
+eups declare sims_featureScheduler  -r . -t $USER
 setup sims_featureScheduler -t $USER
 scons
 ```
@@ -59,7 +87,7 @@ scons
 ```
 cd ts_astrosky_model 
 git checkout feature/clean_fieldid_dep
-eups delcare ts_astrosky_model  -r . -t $USER
+eups declare ts_astrosky_model  -r . -t $USER
 setup ts_astrosky_model -t $USER
 scons
 ```
@@ -69,7 +97,7 @@ scons
 ```
 cd sims_speedObservatory
 git checkout bugfix/work_with_latest_socs
-eups delcare sims_speedObservatory  -r . -t $USER
+eups declare sims_speedObservatory  -r . -t $USER
 setup sims_speedObservatory -t $USER
 scons
 ```
@@ -79,7 +107,7 @@ scons
 ```
 cd sims_skybrightness_pre
 git checkout master
-eups delcare sims_skybrightness_pre  -r . -t $USER
+eups declare sims_skybrightness_pre  -r . -t $USER
 setup sims_skybrightness_pre -t $USER
 scons
 ```
