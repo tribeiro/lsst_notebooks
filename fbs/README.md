@@ -15,27 +15,57 @@ git clone https://github.com/tribeiro/sims_speedObservatory.git
 git clone https://github.com/lsst/sims_seeingModel.git
 git clone https://github.com/lsst/sims_cloudModel.git
 git clone https://github.com/lsst/sims_downtimeModel.git
+git clone https://github.com/lsst-ts/ts_dateloc.git
 ~~~
 
-# ts_observatory_model (feature/fail_state_in_get_slew_dela)
+# ts_dateloc (master)
+
+```
+cd ts_dateloc
+eups declare ts_dateloc -r . -t $USER
+setup ts_dateloc -t $USER
+scons
+```
+
+# ts_observatory_model (develop)
 
 ```
 cd ts_observatory_model
-git checkout feature/fail_state_in_get_slew_delay
+git checkout develop
 eups declare ts_observatory_model -r . -t $USER
 setup ts_observatory_model -t $USER
 scons
 ```
 
-# sims_ocs (feature/clean_fieldid_dep)
+# sims_skybrightness_pre (master)
 
 ```
-cd sims_ocs
-git checkout feature/clean_fieldid_dep
-eups declare sims_ocs -r . -t $USER
-setup sims_ocs -t $USER
+cd sims_skybrightness_pre
+eups declare sims_skybrightness_pre  -r . -t $USER
+setup sims_skybrightness_pre -t $USER
 scons
 ```
+
+# ts_astrosky_model (develop)
+
+```
+cd ts_astrosky_model 
+git checkout develop
+eups declare ts_astrosky_model  -r . -t $USER
+setup ts_astrosky_model -t $USER
+scons
+```
+
+# sims_utils (master) (needed until eups distribution of sims-utils gets updated to include TimeHandler)
+
+```
+git clone https://github.com/lsst/sims_utils.git
+cd sims_utils
+eups declare utils -r . -t $USER
+setup sims_utils -t $USER
+scons
+```
+
 # sims_seeingModel (master)
 
 ```
@@ -44,6 +74,7 @@ eups declare sims_seeingModel -r . -t $USER
 setup sims_seeingModel -t $USER
 scons
 ```
+
 # sims_cloudModel (master)
 
 ```
@@ -62,17 +93,29 @@ setup sims_downtimeModel -t $USER
 scons
 ```
 
-# ts_scheduler (feature/cosmetics_main)
+# sims_ocs (develop)
+
+```
+cd sims_ocs
+git checkout develop
+eups declare sims_ocs -r . -t $USER
+setup sims_ocs -t $USER
+scons
+```
+
+# ts_scheduler (develop)
 
 ```
 cd ts_scheduler 
-git checkout feature/cosmetics_main
+git checkout develop
 eups declare ts_scheduler  -r . -t $USER
 setup ts_scheduler -t $USER
 scons
 ```
 
-# sims_featureScheduler (FSDriver/latest)
+
+
+# sims_featureScheduler (master)
 
 ```
 cd sims_featureScheduler 
@@ -81,36 +124,16 @@ eups declare sims_featureScheduler  -r . -t $USER
 setup sims_featureScheduler -t $USER
 scons
 ```
-
-# ts_astrosky_model (feature/clean_fieldid_dep)
-
-```
-cd ts_astrosky_model 
-git checkout feature/clean_fieldid_dep
-eups declare ts_astrosky_model  -r . -t $USER
-setup ts_astrosky_model -t $USER
-scons
-```
-
-# sims_speedObservatory (bugfix/work_with_latest_socs)
+# sims_speedObservatory (master)
 
 ```
 cd sims_speedObservatory
-git checkout bugfix/work_with_latest_socs
 eups declare sims_speedObservatory  -r . -t $USER
 setup sims_speedObservatory -t $USER
 scons
 ```
 
-# sims_skybrightness_pre (master)
 
-```
-cd sims_skybrightness_pre
-git checkout master
-eups declare sims_skybrightness_pre  -r . -t $USER
-setup sims_skybrightness_pre -t $USER
-scons
-```
 
 If you already have the skybrightness data downloaded you can link it to this repo. For example:
 
