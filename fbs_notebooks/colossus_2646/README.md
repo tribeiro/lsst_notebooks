@@ -1,3 +1,60 @@
+# Sky map comparisons
+
+# HealpixSkyMaps
+ - Nvisits all bands
+ - Nvisits alt/az all bands
+ - Median airmass all bands
+ - Max airmass all bands
+ - CoaddM5 r band
+
+![png](output_38_2.png)
+
+
+
+![png](output_38_3.png)
+
+
+
+![png](output_38_4.png)
+
+
+
+![png](output_38_5.png)
+
+
+
+![png](output_38_6.png)
+
+
+# CoaddM5 r band HealpixHistrogram
+
+
+![png](output_40_0.png)
+
+
+# HA distributions (OneDSlicer)
+
+
+
+# HA distribution all bands
+
+
+![png](output_48_1.png)
+
+
+# HA distribution y band
+
+
+
+![png](output_50_1.png)
+
+
+# Slew time and distance distributions
+
+![png](output_58_0.png)
+
+![png](output_59_0.png)
+
 # SRD metrics
 
 |                                                                                    |   baseline2018a |   colossus_2646 |
@@ -728,60 +785,3 @@
   </tbody>
 </table>
 </div>
-
-
-
-# HealpixSkyMaps
- - Nvisits all bands
- - Nvisits alt/az all bands
- - Median airmass all bands
- - Max airmass all bands
- - CoaddM5 r band
-
-![png](output_38_2.png)
-
-
-
-![png](output_38_3.png)
-
-
-
-![png](output_38_4.png)
-
-
-
-![png](output_38_5.png)
-
-
-
-![png](output_38_6.png)
-
-
-# CoaddM5 r band HealpixHistrogram
-
-
-![png](output_40_0.png)
-
-
-# HA distributions (OneDSlicer)
-
-
-
-# HA distribution all bands
-
-
-![png](output_48_1.png)
-
-
-# HA distribution y band
-
-
-
-![png](output_50_1.png)
-
-
-# Slew time and distance distributions
-
-![png](output_58_0.png)
-
-![png](output_59_0.png)
