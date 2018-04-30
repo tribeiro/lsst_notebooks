@@ -5,7 +5,7 @@
  - Max airmass all bands
  - CoaddM5 r band
 
-![Nvisits](fbs_notebooks/colossus_2646/figures/colossus_2646_astro-lsst-01_2022_NVisits_all_bands_HEAL_ComboSkyMap.pdf)
+![Nvisits](figures/colossus_2646_astro-lsst-01_2022_NVisits_all_bands_HEAL_ComboSkyMap.pdf)
 
 
 
