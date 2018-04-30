@@ -1,6 +1,29 @@
 # SRD metrics
 
-
+|                                                                                    |   baseline2018a |   colossus_2646 |
+|:-----------------------------------------------------------------------------------|----------------:|----------------:|
+| fOArea: Nvisits (#) fO All visits HealpixSlicer                                    |         836     |         709     |
+| fOArea: Nvisits/benchmark fO All visits HealpixSlicer                              |           1.013 |           0.859 |
+| fONv: Area (sqdeg) fO All visits HealpixSlicer                                     |       18056.6   |       17738.5   |
+| fONv: Area/benchmark fO All visits HealpixSlicer                                   |           1.003 |           0.985 |
+| fOArea: Nvisits (#) fO WFD HealpixSlicer                                           |         835     |         432     |
+| fOArea: Nvisits/benchmark fO WFD HealpixSlicer                                     |           1.012 |           0.524 |
+| fONv: Area (sqdeg) fO WFD HealpixSlicer                                            |       18040.6   |       17260.9   |
+| fONv: Area/benchmark fO WFD HealpixSlicer                                          |           1.002 |           0.959 |
+| Median Parallax Error @ 24.0 All visits HealpixSlicer                              |           7.212 |           7.41  |
+| Median Parallax Coverage @ 24.0 All visits HealpixSlicer                           |           0.541 |           0.576 |
+| Median Parallax-DCR degeneracy @ 24.0 All visits HealpixSlicer                     |           0.214 |           0.277 |
+| Median Parallax Error @ 24.0 WFD HealpixSlicer                                     |           6.32  |           6.681 |
+| Median Parallax Coverage @ 24.0 WFD HealpixSlicer                                  |           0.544 |           0.599 |
+| Median Parallax-DCR degeneracy @ 24.0 WFD HealpixSlicer                            |           0.165 |           0.298 |
+| Median Parallax Error @ 22.4 All visits HealpixSlicer                              |           1.849 |           1.879 |
+| Median Parallax Coverage @ 22.4 All visits HealpixSlicer                           |           0.548 |           0.585 |
+| Median Parallax-DCR degeneracy @ 22.4 All visits HealpixSlicer                     |           0.219 |           0.286 |
+| Median Parallax Error @ 22.4 WFD HealpixSlicer                                     |           1.638 |           1.712 |
+| Median Parallax Coverage @ 22.4 WFD HealpixSlicer                                  |           0.549 |           0.607 |
+| Median Parallax-DCR degeneracy @ 22.4 WFD HealpixSlicer                            |           0.172 |           0.31  |
+| Area (sq deg) Number of revisits faster than 30.0 minutes All visits HealpixSlicer |        5834.76  |          69.747 |
+| Area (sq deg) Number of revisits faster than 30.0 minutes WFD HealpixSlicer        |        8340.79  |           0     |
 
 # Select metrics
 
