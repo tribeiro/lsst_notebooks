@@ -1,5 +1,8 @@
 # Table of Contents
 1. [fO Metrics](#fo-metrics)
+2. [Parallax](#parallax)
+3. [Proper motion](#proper-motion)
+4. [Rapid revisit](#raipd-revist)
 
 # fO Metrics
 
