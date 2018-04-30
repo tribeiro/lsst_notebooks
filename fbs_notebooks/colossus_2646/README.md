@@ -1,6 +1,6 @@
 # Table of Contents
 1. [Sky map comparisons](#sky-map-comparisons)
-2. [CoaddM5 r band](#coaddm5-r-band-healpixhistrogram)
+2. [CoaddM5 r band histogram](#coaddm5-r-band-healpixhistrogram)
 3. [HA distributions](#ha-distribution-all-bands--y-band)
 4. [Slew time and distance distributions](#slew-time-and-distance-distributions)
 5. [SRD metrics overview](#srd-metrics)
