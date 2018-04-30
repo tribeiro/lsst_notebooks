@@ -5,6 +5,13 @@
 4. [Rapid revisit](#rapid-revisit)
 5. [Fraction in pairs](#fraction-in-paris)
 6. [Fraction of total visits per proposal](#fraction-of-total-visits-per-proposal)
+7. [Median Nvisits per filter WFD](#median-nvsits-per-filter-wfd)
+8. [Median CoaddedM5 per filter WFD](#median-coaddedm5-per-filter-wfd)
+9. [Median seeingEff per filter WFD](#median-seeingeff-per-filter-wfd)
+10. [Slew statistics](#slew-statistics)
+11. [Filter change statistics](#filter-change-statistics)
+12. [Normalized effective time](#normalized-effective-time)
+13. [Open shutter fraction](#open-shutter-fraction)
 
 # fO Metrics
 
