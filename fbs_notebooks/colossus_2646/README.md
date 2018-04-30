@@ -1,3 +1,57 @@
+# SRD metrics
+
+
+
+# Select metrics
+
+|                                                                          |   baseline2018a |   colossus_2646 |
+|:-------------------------------------------------------------------------|----------------:|----------------:|
+| Fraction of total Nvisits All props                                      |           1     |           1     |
+| Fraction of total Nvisits SouthCelestialPole                             |           0.02  |           0.029 |
+| Fraction of total Nvisits WideFastDeep                                   |           0.864 |           0.815 |
+| Fraction of total Nvisits DeepDrillingCosmology1                         |           0.046 |           0.068 |
+| Fraction of total Nvisits GalacticPlane                                  |           0.016 |           0.019 |
+| Fraction of total Nvisits NorthEclipticSpur                              |           0.055 |           0.068 |
+| Median Fraction of visits in pairs (15-60 min) gri HealpixSlicer         |           0.895 |           0.717 |
+| Median Fraction of visits in pairs (15-60 min) gri WFD+NES HealpixSlicer |           0.901 |           0.76  |
+| Median NVisits WFD u band HealpixSlicer                                  |          62     |          67     |
+| Median NVisits WFD i band HealpixSlicer                                  |         199     |         204     |
+| Median NVisits WFD r band HealpixSlicer                                  |         200     |         204     |
+| Median NVisits WFD g band HealpixSlicer                                  |          87     |          92     |
+| Median NVisits WFD all bands HealpixSlicer                               |         912     |         946     |
+| Median NVisits WFD z band HealpixSlicer                                  |         183     |         186     |
+| Median NVisits WFD y band HealpixSlicer                                  |         182     |         192     |
+| Median CoaddM5 WFD u band HealpixSlicer                                  |          25.615 |          25.644 |
+| Median CoaddM5 WFD i band HealpixSlicer                                  |          26.613 |          26.526 |
+| Median CoaddM5 WFD r band HealpixSlicer                                  |          27.188 |          27.13  |
+| Median CoaddM5 WFD g band HealpixSlicer                                  |          27.11  |          27.149 |
+| Median CoaddM5 WFD z band HealpixSlicer                                  |          25.707 |          25.808 |
+| Median CoaddM5 WFD y band HealpixSlicer                                  |          24.892 |          24.816 |
+| Median Median seeingEff WFD u band HealpixSlicer                         |           0.956 |           0.949 |
+| Median Median seeingEff WFD i band HealpixSlicer                         |           0.823 |           0.844 |
+| Median Median seeingEff WFD r band HealpixSlicer                         |           0.849 |           0.863 |
+| Median Median seeingEff WFD g band HealpixSlicer                         |           0.906 |           0.895 |
+| Median Median seeingEff WFD all bands HealpixSlicer                      |           0.836 |           0.856 |
+| Median Median seeingEff WFD z band HealpixSlicer                         |           0.816 |           0.829 |
+| Median Median seeingEff WFD y band HealpixSlicer                         |           0.806 |           0.837 |
+| Median Median airmass WFD u band HealpixSlicer                           |           1.044 |           1.05  |
+| Median Median airmass WFD i band HealpixSlicer                           |           1.05  |           1.051 |
+| Median Median airmass WFD r band HealpixSlicer                           |           1.045 |           1.052 |
+| Median Median airmass WFD g band HealpixSlicer                           |           1.046 |           1.048 |
+| Median Median airmass WFD all bands HealpixSlicer                        |           1.048 |           1.054 |
+| Median Median airmass WFD z band HealpixSlicer                           |           1.057 |           1.062 |
+| Median Median airmass WFD y band HealpixSlicer                           |           1.079 |           1.138 |
+| Median slewTime All visits                                               |           5.175 |           5.412 |
+| Filter Changes Whole Survey                                              |       10644     |       21508     |
+| Filter Changes Per Night OneDSlicer                                      |        3025     |        3025     |
+| Median Filter Changes Per Night OneDSlicer                               |           2     |           5     |
+| Normalized Teff all bands                                                |           0.558 |           0.531 |
+| Median Normalized Teff all bands HealpixSlicer                           |           0.546 |           0.516 |
+| Normalized Teff all bands HealpixSlicer                                  |       31116     |       31939     |
+| OpenShutterFraction All visits                                           |           0.716 |           0.657 |
+| Median OpenShutterFraction Per night OneDSlicer                          |           0.718 |           0.658 |
+| OpenShutterFraction Per night OneDSlicer                                 |        3025     |        3025     |
+
 # Table of Contents
 1. [fO Metrics](#fo-metrics)
 2. [Parallax](#parallax)
