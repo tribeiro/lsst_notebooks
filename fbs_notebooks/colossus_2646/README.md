@@ -112,7 +112,7 @@
 | Median OpenShutterFraction Per night OneDSlicer                          |           0.718 |           0.658 |
 | OpenShutterFraction Per night OneDSlicer                                 |        3025     |        3025     |
 
-# Table of Contents
+# More metric details
 1. [fO Metrics](#fo-metrics)
 2. [Parallax](#parallax)
 3. [Proper motion](#proper-motion)
