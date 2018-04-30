@@ -1,6 +1,6 @@
 # Sky map comparisons
 
- - Nvisits all bands
+ - [Nvisits all bands](figures/colossus_2646_astro-lsst-01_2022_NVisits_all_bands_HEAL_ComboSkyMap.pdf)
 ![Nvisits](output_38_2.png)
 
 
