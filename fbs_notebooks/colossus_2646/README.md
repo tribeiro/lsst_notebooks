@@ -5,6 +5,7 @@
 4. [Slew time and distance distributions](#slew-time-and-distance-distributions)
 5. [SRD metrics overview](#srd-metrics)
 6. [Select metrics overiew](#select-metrics)
+7. [More metric details](#more-metric-details)
 
 # Sky map comparisons
 (Clicking the bullet links will take you to the PDFs)
