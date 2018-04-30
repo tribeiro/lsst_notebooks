@@ -30,24 +30,16 @@
 
 
 
-# HA distribution all bands
+# HA distribution all bands / y band
 
 
-![png](output_48_1.png)
-
-
-# HA distribution y band
-
-
-
-![png](output_50_1.png)
-
+![png](output_48_1.png) ![png](output_50_1.png)
 
 # Slew time and distance distributions
 
-![png](output_58_0.png)
+![png](output_58_0.png) ![png](output_59_0.png)
 
-![png](output_59_0.png)
+
 
 # SRD metrics
 
