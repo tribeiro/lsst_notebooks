@@ -1,3 +1,6 @@
+# Table of Contents
+1. [fO Metrics](#fo-metrics)
+
 # fO Metrics
 
 <table border="1" class="dataframe">
