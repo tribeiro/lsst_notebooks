@@ -2,7 +2,9 @@
 1. [fO Metrics](#fo-metrics)
 2. [Parallax](#parallax)
 3. [Proper motion](#proper-motion)
-4. [Rapid revisit](#raipd-revist)
+4. [Rapid revisit](#rapid-revisit)
+5. [Fraction in pairs](#fraction-in-paris)
+6. [Fraction of total visits per proposal](#fraction-of-total-visits-per-proposal)
 
 # fO Metrics
 
