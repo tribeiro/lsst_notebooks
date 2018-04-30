@@ -1,26 +1,22 @@
 # Sky map comparisons
- - Nvisits all bands
- - Nvisits alt/az all bands
- - Median airmass all bands
- - Max airmass all bands
- - CoaddM5 r band
 
+ - Nvisits all bands
 ![Nvisits](output_38_2.png)
 
 
-
+ - Nvisits alt/az all bands
 ![png](output_38_3.png)
 
 
-
+ - Median airmass all bands
 ![png](output_38_4.png)
 
 
-
+ - Max airmass all bands
 ![png](output_38_5.png)
 
 
-
+ - CoaddM5 r band
 ![png](output_38_6.png)
 
 
