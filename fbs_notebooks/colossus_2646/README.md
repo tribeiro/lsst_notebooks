@@ -27,6 +27,12 @@
  - [CoaddM5 r band](figures/colossus_2646_astro-lsst-01_2022_CoaddM5_r_band_HEAL_ComboSkyMap.pdf)
 ![png](output_38_6.png)
 
+- [Normalized parallax @ 22.4](figures/colossus_2646_astro-lsst-01_2022_Normalized_Parallax_@_22_4_All_visits_HEAL_ComboSkyMap.pdf)
+![png](output_40_7.png)
+
+- [Normalized proper motion @ 20.5](/figures/colossus_2646_astro-lsst-01_2022_Normalized_Proper_Motion_@_20_5_All_visits_HEAL_ComboSkyMap.pdf)
+![png](output_40_8.png)
+
 
 # CoaddM5 r band HealpixHistrogram
 
