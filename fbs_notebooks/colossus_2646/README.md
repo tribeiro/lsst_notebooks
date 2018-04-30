@@ -1,6 +1,4 @@
 # Sky map comparisons
-
-# HealpixSkyMaps
  - Nvisits all bands
  - Nvisits alt/az all bands
  - Median airmass all bands
