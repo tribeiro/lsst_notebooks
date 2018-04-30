@@ -4,19 +4,19 @@
 ![Nvisits](output_38_2.png)
 
 
- - Nvisits alt/az all bands
+ - [Nvisits alt/az all bands](figures/colossus_2646_astro-lsst-01_2022_Nvisits_as_function_of_Alt_Az_all_bands_HEAL_ComboSkyMap.pdf)
 ![png](output_38_3.png)
 
 
- - Median airmass all bands
+ - [Median airmass all bands](figures/colossus_2646_astro-lsst-01_2022_Median_airmass_all_bands_HEAL_ComboSkyMap.pdf)
 ![png](output_38_4.png)
 
 
- - Max airmass all bands
+ - [Max airmass all bands](colossus_2646/figures/colossus_2646_astro-lsst-01_2022_Max_airmass_all_bands_HEAL_ComboSkyMap.pdf)
 ![png](output_38_5.png)
 
 
- - CoaddM5 r band
+ - [CoaddM5 r band](fbs_notebooks/colossus_2646/figures/colossus_2646_astro-lsst-01_2022_CoaddM5_r_band_HEAL_ComboSkyMap.pdf)
 ![png](output_38_6.png)
 
 
