@@ -25,13 +25,7 @@
 
 ![png](output_40_0.png)
 
-
-# HA distributions (OneDSlicer)
-
-
-
 # HA distribution all bands / y band
-
 
 ![png](output_48_1.png) ![png](output_50_1.png)
 
