@@ -7,6 +7,7 @@
 6. [Select metrics overiew](#select-metrics)
 
 # Sky map comparisons
+(Clicking the bullet links will take you to the PDFs)
 
  - [Nvisits all bands](figures/colossus_2646_astro-lsst-01_2022_NVisits_all_bands_HEAL_ComboSkyMap.pdf)
 ![Nvisits](output_38_2.png)
