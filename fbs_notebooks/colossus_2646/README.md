@@ -12,11 +12,11 @@
 ![png](output_38_4.png)
 
 
- - [Max airmass all bands](colossus_2646/figures/colossus_2646_astro-lsst-01_2022_Max_airmass_all_bands_HEAL_ComboSkyMap.pdf)
+ - [Max airmass all bands](figures/colossus_2646_astro-lsst-01_2022_Max_airmass_all_bands_HEAL_ComboSkyMap.pdf)
 ![png](output_38_5.png)
 
 
- - [CoaddM5 r band](fbs_notebooks/colossus_2646/figures/colossus_2646_astro-lsst-01_2022_CoaddM5_r_band_HEAL_ComboSkyMap.pdf)
+ - [CoaddM5 r band](colossus_2646/figures/colossus_2646_astro-lsst-01_2022_CoaddM5_r_band_HEAL_ComboSkyMap.pdf)
 ![png](output_38_6.png)
 
 
