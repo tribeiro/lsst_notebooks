@@ -16,7 +16,7 @@
 ![png](output_38_5.png)
 
 
- - [CoaddM5 r band](colossus_2646/figures/colossus_2646_astro-lsst-01_2022_CoaddM5_r_band_HEAL_ComboSkyMap.pdf)
+ - [CoaddM5 r band](figures/colossus_2646_astro-lsst-01_2022_CoaddM5_r_band_HEAL_ComboSkyMap.pdf)
 ![png](output_38_6.png)
 
 
