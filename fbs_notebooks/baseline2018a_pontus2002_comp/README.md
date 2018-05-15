@@ -1,10 +1,10 @@
-Table of Contents
+# Table of Contents
 1. [fO](#fo)
 2. [Total Effective Time](#total-effective-time)
 3. [Normalized Effective Time](#normalized-effective-time)
-4. [Open Shutter Fraction](#open shutter-fraction)
+4. [Open Shutter Fraction](#open-shutter-fraction)
 5. [Rapid Revisit](#rapid-revisit)
-6. [Fraction in Paris](#fraction-in paris)
+6. [Fraction in Paris](#fraction-in-paris)
 7. [Slews](#slews)
 8. [Filter Changes](#filter-changes)
 9. [Nvisits](#nvisits)
