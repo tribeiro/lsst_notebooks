@@ -1,3 +1,9 @@
+# Basic run configuration for `mothra_2044`
+- Identical config to `baseline2018a`
+- HA bonus = 0.3, HA max = 3.0 for WFD
+- Airmass bonus = 0.0
+- Only difference is `mothra_2044` was run with `python3` vs `baselin2018a` which was run with `python2`
+
 # Table of Contents
 1. [fO](#fo)
 2. [Total Effective Time](#total-effective-time)
