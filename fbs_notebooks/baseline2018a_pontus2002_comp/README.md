@@ -13,7 +13,7 @@
 12. [Median CoaddM5 WFD](#median-coaddM5-wfd)
 13. [Median Airmass WFD](#median-airmass-wfd)
 14. [Median Seeing WFD](#median-seeing-wfd)
-
+15. [Skymap comparisons](#skymap-comparisons)
 # fO
 |                                                       |   baseline2018a |   pontus_2002 |
 |:------------------------------------------------------|----------------:|--------------:|
