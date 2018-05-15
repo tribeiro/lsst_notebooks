@@ -1,9 +1,3 @@
-# Basic run configuration for `mothra_2044`
-- Identical config to `baseline2018a`
-- HA bonus = 0.3, HA max = 3.0 for WFD
-- Airmass bonus = 0.0
-- Only difference is `mothra_2044` was run with `python3`
-
 # Table of Contents
 1. [fO](#fo)
 2. [Total Effective Time](#total-effective-time)
@@ -180,24 +174,24 @@
 | Median Median seeingEff WFD g band HealpixSlicer    |           0.906 |         0.904 |
 
 # Skymap comparisons
-- [Nvisits all bands](figures/baseline2018a_mothra_2044NVisits_all_bands_HEAL_ComboSkyMap.pdf)
-![png](figures/thumb.baseline2018a_mothra_2044NVisits_all_bands_HEAL_ComboSkyMap.png)
-- [Nvisits alt/az all bands](figures/baseline2018a_mothra_2044Nvisits_as_function_of_Alt_Az_all_bands_HEAL_ComboSkyMap.pdf)
-![png](figures/thumb.baseline2018a_mothra_2044Nvisits_as_function_of_Alt_Az_all_bands_HEAL_ComboSkyMap.png)
-- [Median airmass all bands](figures/baseline2018a_mothra_2044Median_airmass_all_bands_HEAL_ComboSkyMap.pdf)
-![png](figures/thumb.baseline2018a_mothra_2044Median_airmass_all_bands_HEAL_ComboSkyMap.png)
-- [Max airmass all bands](figures/baseline2018a_mothra_2044Max_airmass_all_bands_HEAL_ComboSkyMap.pdf)
-![png](figures/thumb.baseline2018a_mothra_2044Max_airmass_all_bands_HEAL_ComboSkyMap.png)
-- [CoaddM5 r band](figures/baseline2018a_mothra_2044CoaddM5_r_band_HEAL_ComboSkyMap.pdf)
-![png](figures/thumb.baseline2018a_mothra_2044CoaddM5_r_band_HEAL_ComboSkyMap.png)
-- [Normalized Proper Motion at 20.5](figures/baseline2018a_mothra_2044Normalized_Proper_Motion_@_20_5_All_visits_HEAL_ComboSkyMap.pdf)
-![png](figures/thumb.baseline2018a_mothra_2044Normalized_Proper_Motion_@_20_5_All_visits_HEAL_ComboSkyMap.png)
-- [Normalized Parallax at 22.4](figures/baseline2018a_mothra_2044Normalized_Parallax_@_22_4_All_visits_HEAL_ComboSkyMap.pdf)
-![png](figures/thumb.baseline2018a_mothra_2044Normalized_Parallax_@_22_4_All_visits_HEAL_ComboSkyMap.png)
+- [Nvisits all bands](figures/baseline2018a_mothra_2044_NVisits_all_bands_HEAL_ComboSkyMap.pdf)
+![png](figures/thumb.baseline2018a_mothra_2044_NVisits_all_bands_HEAL_ComboSkyMap.png)
+- [Nvisits alt/az all bands](figures/baseline2018a_mothra_2044_Nvisits_as_function_of_Alt_Az_all_bands_HEAL_ComboSkyMap.pdf)
+![png](figures/thumb.baseline2018a_mothra_2044_Nvisits_as_function_of_Alt_Az_all_bands_HEAL_ComboSkyMap.png)
+- [Median airmass all bands](figures/baseline2018a_mothra_2044_Median_airmass_all_bands_HEAL_ComboSkyMap.pdf)
+![png](figures/thumb.baseline2018a_mothra_2044_Median_airmass_all_bands_HEAL_ComboSkyMap.png)
+- [Max airmass all bands](figures/baseline2018a_mothra_2044_Max_airmass_all_bands_HEAL_ComboSkyMap.pdf)
+![png](figures/thumb.baseline2018a_mothra_2044_Max_airmass_all_bands_HEAL_ComboSkyMap.png)
+- [CoaddM5 r band](figures/baseline2018a_mothra_2044_CoaddM5_r_band_HEAL_ComboSkyMap.pdf)
+![png](figures/thumb.baseline2018a_mothra_2044_CoaddM5_r_band_HEAL_ComboSkyMap.png)
+- [Normalized Proper Motion at 20.5](figures/baseline2018a_mothra_2044_Normalized_Proper_Motion_@_20_5_All_visits_HEAL_ComboSkyMap.pdf)
+![png](figures/thumb.baseline2018a_mothra_2044_Normalized_Proper_Motion_@_20_5_All_visits_HEAL_ComboSkyMap.png)
+- [Normalized Parallax at 22.4](figures/baseline2018a_mothra_2044_Normalized_Parallax_@_22_4_All_visits_HEAL_ComboSkyMap.pdf)
+![png](figures/thumb.baseline2018a_mothra_2044_Normalized_Parallax_@_22_4_All_visits_HEAL_ComboSkyMap.png)
 # Histrogram comparisons
 ### CoaddM5 r band HealPix Histrogram
-![png](figures/thumb.baseline2018a_mothra_2044CoaddM5_r_band_HEAL_ComboHistogram.png)
+![png](figures/thumb.baseline2018a_mothra_2044_CoaddM5_r_band_HEAL_ComboHistogram.png)
 ### Slew Distance Histogram
-![png](figures/thumb.baseline2018a_mothra_2044Slew_Distance_Histogram_All_visits_ONED_ComboBinnedData.png)
+![png](figures/thumb.baseline2018a_mothra_2044_Slew_Distance_Histogram_All_visits_ONED_ComboBinnedData.png)
 ### Slew Time Histogram 
-![png](figures/thumb.baseline2018a_mothra_2044Slew_Time_Histogram_All_visits_ONED_ComboBinnedData.png)
+![png](figures/thumb.baseline2018a_mothra_2044_Slew_Time_Histogram_All_visits_ONED_ComboBinnedData.png)
