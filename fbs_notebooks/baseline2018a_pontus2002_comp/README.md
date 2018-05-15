@@ -3,17 +3,19 @@
 2. [Total Effective Time](#total-effective-time)
 3. [Normalized Effective Time](#normalized-effective-time)
 4. [Open Shutter Fraction](#open-shutter-fraction)
-5. [Rapid Revisit](#rapid-revisit)
-6. [Fraction in Paris](#fraction-in-paris)
-7. [Slews](#slews)
-8. [Filter Changes](#filter-changes)
-9. [Nvisits](#nvisits)
-10. [Proposal Fractions](#proposal-fractions)
-11. [Median Nvisits WFD](#median-nvisits-wfd)
-12. [Median CoaddM5 WFD](#median-coaddM5-wfd)
-13. [Median Airmass WFD](#median-airmass-wfd)
-14. [Median Seeing WFD](#median-seeing-wfd)
-15. [Skymap comparisons](#skymap-comparisons)
+5. [Parallax](#parallax)
+6. [Proper Motion](#proper-motion)
+7. [Rapid Revisit](#rapid-revisit)
+8. [Fraction in Paris](#fraction-in-paris)
+9. [Slews](#slews)
+10. [Filter Changes](#filter-changes)
+11. [Nvisits](#nvisits)
+12. [Proposal Fractions](#proposal-fractions)
+13. [Median Nvisits WFD](#median-nvisits-wfd)
+14. [Median CoaddM5 WFD](#median-coaddM5-wfd)
+15. [Median Airmass WFD](#median-airmass-wfd)
+16. [Median Seeing WFD](#median-seeing-wfd)
+17. [Skymap comparisons](#skymap-comparisons)
 # fO
 |                                                       |   baseline2018a |   pontus_2002 |
 |:------------------------------------------------------|----------------:|--------------:|
@@ -45,6 +47,30 @@
 | OpenShutterFraction All visits                  |           0.716 |         0.733 |
 | Median OpenShutterFraction Per night OneDSlicer |           0.718 |         0.736 |
 | OpenShutterFraction Per night OneDSlicer        |        3025     |      3025     |
+
+# Parallax
+|                                                                |   baseline2018a |   pontus_2002 |
+|:---------------------------------------------------------------|----------------:|--------------:|
+| Median Parallax Error @ 22.4 All visits HealpixSlicer          |           1.849 |         1.955 |
+| Median Parallax Error @ 24.0 All visits HealpixSlicer          |           7.212 |         7.613 |
+| Median Parallax Coverage @ 22.4 All visits HealpixSlicer       |           0.548 |         0.559 |
+| Median Parallax Coverage @ 24.0 All visits HealpixSlicer       |           0.541 |         0.555 |
+| Median Parallax-DCR degeneracy @ 22.4 All visits HealpixSlicer |           0.219 |         0.194 |
+| Median Parallax-DCR degeneracy @ 24.0 All visits HealpixSlicer |           0.214 |         0.19  |
+| Median Parallax Error @ 22.4 WFD HealpixSlicer                 |           1.638 |         1.959 |
+| Median Parallax Error @ 24.0 WFD HealpixSlicer                 |           6.32  |         7.623 |
+| Median Parallax Coverage @ 22.4 WFD HealpixSlicer              |           0.549 |         0.559 |
+| Median Parallax Coverage @ 24.0 WFD HealpixSlicer              |           0.544 |         0.555 |
+| Median Parallax-DCR degeneracy @ 22.4 WFD HealpixSlicer        |           0.172 |         0.194 |
+| Median Parallax-DCR degeneracy @ 24.0 WFD HealpixSlicer        |           0.165 |         0.19  |
+
+# Proper Motion
+|                                                            |   baseline2018a |   pontus_2002 |
+|:-----------------------------------------------------------|----------------:|--------------:|
+| Median Proper Motion Error @ 20.5 All visits HealpixSlicer |           0.173 |         0.194 |
+| Median Proper Motion Error @ 24.0 All visits HealpixSlicer |           1.85  |         1.993 |
+| Median Proper Motion Error @ 20.5 WFD HealpixSlicer        |           0.169 |         0.194 |
+| Median Proper Motion Error @ 24.0 WFD HealpixSlicer        |           1.713 |         1.994 |
 
 # Rapid Revisit
 |                                                      |   baseline2018a |   pontus_2002 |
@@ -154,3 +180,7 @@
 ![png](figures/thumb.baseline2018a_pontus_2002_Max_airmass_all_bands_HEAL_ComboSkyMap.png)
 - [CoaddM5 r band](figures/baseline2018a_pontus_2002_CoaddM5_r_band_HEAL_ComboSkyMap.pdf)
 ![png](figures/thumb.baseline2018a_pontus_2002_CoaddM5_r_band_HEAL_ComboSkyMap.png)
+- [Normalized Proper Motion at 20.5](figures/baseline2018a_pontus_2002_Normalized_Proper_Motion_@_20_5_All_visits_HEAL_ComboSkyMap.pdf)
+![png](figures/thumb.baseline2018a_pontus_2002_Normalized_Proper_Motion_@_20_5_All_visits_HEAL_ComboSkyMap.png)
+- [Normalized Parallax at 22.4](figures/baseline2018a_pontus_2002_Normalized_Parallax_@_22_4_All_visits_HEAL_ComboSkyMap.pdf)
+![png](figures/thumb.baseline2018a_pontus_2002_Normalized_Parallax_@_22_4_All_visits_HEAL_ComboSkyMap.png)
