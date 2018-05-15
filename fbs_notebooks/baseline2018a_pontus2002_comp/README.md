@@ -1,3 +1,10 @@
+# Basic run configuration for `pontus_2002`
+- WFD + DD: WFD having 274000 deg sq (X<1.5, DeMin = -78, DecMax = +18)
+- HA bonus = 0.3, HA max = 3.0 for WFD
+- Airmass bonus = 0.0
+- Dome crawl enabled
+- New optics loop correction
+
 # Table of Contents
 1. [fO](#fo)
 2. [Total Effective Time](#total-effective-time)
