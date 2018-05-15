@@ -12,7 +12,7 @@
 11. [Nvisits](#nvisits)
 12. [Proposal Fractions](#proposal-fractions)
 13. [Median Nvisits WFD](#median-nvisits-wfd)
-14. [Median CoaddM5 WFD](#median-coaddM5-wfd)
+14. [Median CoaddM5 WFD](#median-coaddm5-wfd)
 15. [Median Airmass WFD](#median-airmass-wfd)
 16. [Median Seeing WFD](#median-seeing-wfd)
 17. [Skymap comparisons](#skymap-comparisons)
