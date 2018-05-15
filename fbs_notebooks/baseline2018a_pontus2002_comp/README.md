@@ -12,10 +12,10 @@
 11. [Nvisits](#nvisits)
 12. [Proposal Fractions](#proposal-fractions)
 13. [Median Nvisits WFD](#median-nvisits-wfd)
-14. [Median CoaddM5 WFD](#median-coaddm5-wfd)
+14. [Median CoaddM5 WFD](#median-coaddM5-wfd)
 15. [Median Airmass WFD](#median-airmass-wfd)
 16. [Median Seeing WFD](#median-seeing-wfd)
-17. [Skymap comparisons](#skymap-comparisons)
+17. [Skymap comparisons](#skymap-comparisons)18. [Histrogram comparisons](#histrogram-comparisons)
 # fO
 |                                                       |   baseline2018a |   pontus_2002 |
 |:------------------------------------------------------|----------------:|--------------:|
@@ -184,3 +184,10 @@
 ![png](figures/thumb.pontus_2002_baseline2018a_Normalized_Proper_Motion_@_20_5_All_visits_HEAL_ComboSkyMap.png)
 - [Normalized Parallax at 22.4](figures/pontus_2002_baseline2018a_Normalized_Parallax_@_22_4_All_visits_HEAL_ComboSkyMap.pdf)
 ![png](figures/thumb.pontus_2002_baseline2018a_Normalized_Parallax_@_22_4_All_visits_HEAL_ComboSkyMap.png)
+# Histrogram comparisons
+- [CoaddM5 r band HealPix Histrogram](figures/pontus_2002_baseline2018a_CoaddM5_r_band_HEAL_ComboHistogram.pdf)
+![png](figures/thumb.pontus_2002_baseline2018a_CoaddM5_r_band_HEAL_ComboHistogram.png)
+- [Slew Distance Histogram](figures/pontus_2002_baseline2018a_Slew_Distance_Histogram_All_visits_ONED_ComboBinnedData.pdf)
+![png](figures/thumb.pontus_2002_baseline2018a_Slew_Distance_Histogram_All_visits_ONED_ComboBinnedData.png)
+- [Slew Time Histogram_All](figures/pontus_2002_baseline2018a_Slew_Time_Histogram_All_visits_ONED_ComboBinnedData.pdf)
+![png](figures/thumb.pontus_2002_baseline2018a_Slew_Time_Histogram_All_visits_ONED_ComboBinnedData.png)
