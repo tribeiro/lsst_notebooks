@@ -185,9 +185,9 @@
 - [Normalized Parallax at 22.4](figures/pontus_2002_baseline2018a_Normalized_Parallax_@_22_4_All_visits_HEAL_ComboSkyMap.pdf)
 ![png](figures/thumb.pontus_2002_baseline2018a_Normalized_Parallax_@_22_4_All_visits_HEAL_ComboSkyMap.png)
 # Histrogram comparisons
-- [CoaddM5 r band HealPix Histrogram](figures/pontus_2002_baseline2018a_CoaddM5_r_band_HEAL_ComboHistogram.pdf)
+### CoaddM5 r band HealPix Histrogram
 ![png](figures/thumb.pontus_2002_baseline2018a_CoaddM5_r_band_HEAL_ComboHistogram.png)
-- [Slew Distance Histogram](figures/pontus_2002_baseline2018a_Slew_Distance_Histogram_All_visits_ONED_ComboBinnedData.pdf)
+### Slew Distance Histogram
 ![png](figures/thumb.pontus_2002_baseline2018a_Slew_Distance_Histogram_All_visits_ONED_ComboBinnedData.png)
-- [Slew Time Histogram_All](figures/pontus_2002_baseline2018a_Slew_Time_Histogram_All_visits_ONED_ComboBinnedData.pdf)
+### Slew Time Histogram_All
 ![png](figures/thumb.pontus_2002_baseline2018a_Slew_Time_Histogram_All_visits_ONED_ComboBinnedData.png)
