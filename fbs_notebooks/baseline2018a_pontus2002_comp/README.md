@@ -15,7 +15,8 @@
 14. [Median CoaddM5 WFD](#median-coaddM5-wfd)
 15. [Median Airmass WFD](#median-airmass-wfd)
 16. [Median Seeing WFD](#median-seeing-wfd)
-17. [Skymap comparisons](#skymap-comparisons)18. [Histrogram comparisons](#histrogram-comparisons)
+17. [Skymap comparisons](#skymap-comparisons)
+18. [Histrogram comparisons](#histrogram-comparisons)
 # fO
 |                                                       |   baseline2018a |   pontus_2002 |
 |:------------------------------------------------------|----------------:|--------------:|
