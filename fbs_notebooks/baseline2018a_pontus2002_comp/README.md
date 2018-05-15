@@ -189,5 +189,5 @@
 ![png](figures/thumb.pontus_2002_baseline2018a_CoaddM5_r_band_HEAL_ComboHistogram.png)
 ### Slew Distance Histogram
 ![png](figures/thumb.pontus_2002_baseline2018a_Slew_Distance_Histogram_All_visits_ONED_ComboBinnedData.png)
-### Slew Time Histogram_All
+### Slew Time Histogram 
 ![png](figures/thumb.pontus_2002_baseline2018a_Slew_Time_Histogram_All_visits_ONED_ComboBinnedData.png)
