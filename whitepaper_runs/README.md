@@ -5,4 +5,9 @@
 | kraken_2026   | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | N/A           |
 | pontus_2002   | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | minion_1020   |
 
-# baseline2018a - current opsimv4 baseline
+# `baseline2018a`
+- current opsimv4 baseline
+
+# `mothra_2044`
+- recreation of baseline using Python3 code
+- [comparison with baseline2018a](https://github.com/oboberg/lsst_notebooks/blob/master/whitepaper_runs/baseline2018a_kraken2026_comp/README.md)
