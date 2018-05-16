@@ -9,6 +9,7 @@
 
 ### `baseline2018a`
 - current opsimv4 baseline
+- [configuration repository](https://github.com/lsst-ts/opsim4_config/tree/baseline2018a/config_run)
 
 ### `mothra_2044`
 - recreation of baseline using Python3 code
