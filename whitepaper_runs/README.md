@@ -1,9 +1,9 @@
-| Run name                        | HA bonus      | HA max| X bonus | Python | dome crawl | New OL correction  | OpsimV3 run   |
-| --------------------------------|:-------------:|:-----:|:------: |:------:|:----------:| :----------------: | :-----------: |
-| [baseline2018a](#baseline2018a) | 0.3           | 3.0   | 0.0     | 2      |     no     | no                 | minion_1016   |
-| [mothra_2044](#mothra_2044)     | 0.3           | 3.0   | 0.0     | 3      |     no     | no                 | N/A           |
-| [kraken_2026](#kraken_2026)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | N/A           |
-| [pontus_2002](#pontus_2002)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | minion_1020   |
+| Run name                        | HA bonus      | HA max| X bonus | Python | dome crawl | New OL correction  | Note                                                         |
+| --------------------------------|:-------------:|:-----:|:------: |:------:|:----------:| :----------------: | :-----------:                                                |
+| [baseline2018a](#baseline2018a) | 0.3           | 3.0   | 0.0     | 2      |     no     | no                 | Current opsimv4 baseline                                     |
+| [mothra_2044](#mothra_2044)     | 0.3           | 3.0   | 0.0     | 3      |     no     | no                 | Python 3 baseline2018a replacement                           |
+| [kraken_2026](#kraken_2026)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | Python 3 baseline2018a replacement                           |
+| [pontus_2002](#pontus_2002)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | Simulation of a PanSTARRs like survey                        |
 
 # Simulations
 
