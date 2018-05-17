@@ -32,7 +32,7 @@
 - [configuration repository](https://github.com/lsst-ts/opsim4_config/tree/whitepaper2018_big_wfdonly/config_run)
 - [comparison with baseline2018a](https://github.com/oboberg/lsst_notebooks/blob/master/whitepaper_runs/baseline2018a_pontus2002_comp/README.md)
 
-### `mothra_2044`
+### `mothra_2045`
 - Rolling cadence
 - 2 alternating Dec bands switched every other year
 - No WFD proposal in the background.
