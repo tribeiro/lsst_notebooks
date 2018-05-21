@@ -6,9 +6,9 @@
 | [pontus_2002](#pontus_2002)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | Simulation of a PanSTARRs like survey                        |
 | [pontus_2003](#pontus_2003)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | baseline2018_dc (**Finished**)                               |
 | [mothra_2045](#mothra_2045)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | 2 alternating Dec bands switched every other year, WFD off                                  |
-| [pontus_2487](#pontus_2487)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018_manyvisits (**Running** - started @ 2018-05-17 08:36)                       |
-| [kraken_2028](#kraken_2028)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018\_2rolling\_decbands\_wfdbg (**Running** - started @ 2018-05-16 ??:??)                      |
-| [mothra_2046](#mothra_2046)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018_nopairs (**Running** - started @ 2018-05-17 15:40)                      |
+| [pontus_2487](#pontus_2487)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018_manyvisits (**Finished - Copied to opsim2**)                       |
+| [kraken_2028](#kraken_2028)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018\_2rolling\_decbands\_wfdbg (**Finished - Copied to opsim2**)                      |
+| [mothra_2046](#mothra_2046)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018_nopairs (**Finished - Copied to opsim2**)                      |
 
 # Simulations
 
