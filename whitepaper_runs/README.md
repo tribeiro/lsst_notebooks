@@ -9,6 +9,8 @@
 | [pontus_2487](#pontus_2487)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018_manyvisits (**Finished - Copied to opsim2**)                       |
 | [kraken_2028](#kraken_2028)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018\_2rolling\_decbands\_wfdbg (**Finished - Copied to opsim2**)                      |
 | [mothra_2046](#mothra_2046)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018_nopairs (**Finished - Copied to opsim2**)                      |
+| [pontus_2488](#pontus_2488)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018_nogp (**Started** @ 2018/05/22 - 08:19)                      |
+| [kraken_2033](#kraken_2033)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018\_2rolling\_decbands\_yr2\_9\_wfdoff (**Started** @ 2018/05/22 - 09:30)                      |
 
 # Simulations
 
@@ -38,3 +40,4 @@
 - No WFD proposal in the background.
 - [configuration repository](https://github.com/lsst-ts/opsim4_config/tree/whitepaper2018_2rolling_decbands/config_run)
 - [comparison with baseline2018a](https://github.com/oboberg/lsst_notebooks/blob/master/whitepaper_runs/baseline2018a_mothra2045_comp/README.md)
+
