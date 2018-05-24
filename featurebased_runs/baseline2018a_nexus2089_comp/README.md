@@ -195,5 +195,7 @@
 ![png](figures/thumb.nexus_2089_baseline2018a_Slew_Distance_Histogram_All_visits_ONED_ComboBinnedData.png)
 ### Zoom Slew Distance Histogram
 ![png](figures/thumb.nexus_2089_baseline2018a_Zoom_Slew_Distance_Histogram_All_visits_ONED_ComboBinnedData.png)
-### Zoom Slew Time Histogram 
+### Slew Time Histogram
 ![png](figures/thumb.nexus_2089_baseline2018a_Slew_Time_Histogram_All_visits_ONED_ComboBinnedData.png)
+### Zoom Slew Time Histogram 
+![png](figures/thumb.nexus_2089_baseline2018a_Zoom_Slew_Time_Histogram_All_visits_ONED_ComboBinnedData.png)
