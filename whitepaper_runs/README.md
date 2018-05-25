@@ -14,6 +14,8 @@
 
 # Simulations
 
+## Creating a new baseline with latest code, dome crawl, and OL correction delay
+
 ### `baseline2018a`
 - current opsimv4 baseline
 - [configuration repository](https://github.com/lsst-ts/opsim4_config/tree/baseline2018a/config_run)
@@ -32,6 +34,8 @@
 - recreation of baseline using Python3 code, dome crawl, and new delay for OL correction
 - [configuration repository](https://github.com/lsst-ts/opsim4_config/tree/baseline2018_dc_cl/config_run)
 - [comparison with baseline2018a](https://github.com/oboberg/lsst_notebooks/blob/master/whitepaper_runs/baseline2018a_kraken2026_comp/README.md)
+
+## Alternate survey strategies
 
 ### `pontus_2002`
 - Simulation of a PanSTARRs like survey
