@@ -2,11 +2,11 @@
 | --------------------------------|:-------------:|:-----:|:------: |:------:|:----------:| :----------------: | :-----------:                                                |
 | [baseline2018a](#baseline2018a) | 0.3           | 3.0   | 0.0     | 2      |     no     | no                 | Current opsimv4 baseline                                     |
 | [mothra_2044](#mothra_2044)     | 0.3           | 3.0   | 0.0     | 3      |     no     | no                 | Python 3 baseline2018a replacement                           |
-| [kraken_2026](#kraken_2026)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | Python 3 baseline2018a replacement                           |
+| [pontus_2003](#pontus_2003)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | no                 | Python 3 baseline2018a replacement (with dome crawl)         |
+| [kraken_2026](#kraken_2026)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | Python 3 baseline2018a replacement (with dome crawl and OL)  |
 | [pontus_2002](#pontus_2002)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | Simulation of a PanSTARRs like survey                        |
-| [pontus_2003](#pontus_2003)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | baseline2018_dc (**Finished**)                               |
 | [mothra_2045](#mothra_2045)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | 2 alternating Dec bands switched every other year, WFD off                                  |
-| [mothra_2046](#mothra_2046)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  No pairs survey                                                                            |
+| [mothra_2046](#mothra_2046)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | No pairs survey                                                                             |
 | [pontus_2487](#pontus_2487)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | "Many visits" 20s visits with single snap, 40s visits in u band                             |
 | [kraken_2028](#kraken_2028)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018\_2rolling\_decbands\_wfdbg (**Finished - Copied to opsim2**)                |
 | [pontus_2488](#pontus_2488)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018_nogp (**Started** @ 2018/05/22 - 08:19)                                     |
@@ -22,6 +22,11 @@
 - recreation of baseline using Python3 code
 - [configuration repository](https://github.com/lsst-ts/opsim4_config/tree/baseline2018_py3/config_run)
 - [comparison with baseline2018a](https://github.com/oboberg/lsst_notebooks/blob/master/whitepaper_runs/baseline2018a_mothra2044_comp/README.md)
+
+### `pontus_2003`
+- recreation of baseline using Python3 code and dome crawl
+- [configuration repository](https://github.com/lsst-ts/opsim4_config/tree/baseline2018_dc/config_run)
+- [comparison with baseline2018a](https://github.com/oboberg/lsst_notebooks/blob/master/whitepaper_runs/baseline2018a_pontus2003_comp/README.md)
 
 ### `kraken_2026`
 - recreation of baseline using Python3 code, dome crawl, and new delay for OL correction
