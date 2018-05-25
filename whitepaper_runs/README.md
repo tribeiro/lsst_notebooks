@@ -9,8 +9,9 @@
 | [mothra_2046](#mothra_2046)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | No pairs survey                                                                             |
 | [pontus_2487](#pontus_2487)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                | "Many visits" 20s visits with single snap, 40s visits in u band                             |
 | [kraken_2028](#kraken_2028)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018\_2rolling\_decbands\_wfdbg (**Finished - Copied to opsim2**)                |
-| [pontus_2488](#pontus_2488)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018_nogp (**Started** @ 2018/05/22 - 08:19)                                     |
+| [pontus_2488](#pontus_2488)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018_nogp (**Finished - Copied to opsim2**)                                     |
 | [kraken_2033](#kraken_2033)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018\_2rolling\_decbands\_yr2\_9\_wfdoff (**Started** @ 2018/05/22 - 09:30)      |
+| [pontus_2489](#pontus_2489)     | 0.3           | 3.0   | 0.0     | 3      |     yes    | yes                |  whitepaper2018\_manyvisits (**Started** @ 2018/05/)                                     |
 
 # Simulations
 
